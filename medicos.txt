@@ -1,0 +1,6 @@
+Dr.Amelia Sheppard;Neuro
+Dr.Cristina Yang;Cardio
+Dra.Callie Torres;Pediatria
+Dra.Meredith Grey;Geral
+Dr.Derek Sheppard;Neuro
+Dr.Mark Sloan Jr.;Plastica

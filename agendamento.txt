@@ -1,0 +1,9 @@
+Dr.Amelia Sheppard;08/05/2023;14:00
+Dra.Meredith Grey;10/05/2023;18:00
+Dr.Cristina Yang;12/05/2023;12:00
+Dr.Derek Sheppard;18/05/2023;14:00
+Dr.Mark Sloan Jr.;21/05/2023;15:30
+Dra.Meredith Grey;24/05/2023;20:00
+Dr.Derek Sheppard;01/06/2023;10:00
+Dra.Meredith Grey;07/06/2023;19:00
+Dr.Amelia Sheppard;08/07/2023;19:00
